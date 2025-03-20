@@ -64,6 +64,3 @@ while True:
             break  # Exit the loop if the user selects 4
     except ValueError:
         print("Please enter a valid key")
-
-#testing pull command
-#pull command worked
